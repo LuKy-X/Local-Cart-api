@@ -1,0 +1,30 @@
+{
+    "name": "Budi",
+    "email": "budi@example.com",
+    "password": "12345678",
+    "password_confirmation": "12345678",
+    "role": "customer",
+    "nama_customer": "Budi Santoso",
+    "alamat": "Jl. Merdeka No. 10",
+    "telepon": "085123456789"
+}
+
+{
+    "name": "Rudy",
+    "email": "rudy@example.com",
+    "password": "12345678",
+    "password_confirmation": "12345678",
+    "role": "umkm",
+    "nama_umkm": "Merdeka",
+    "deskripsi": "Menjual barang barang merdeka",
+    "alamat": "Jl. Merdeka No. 14",
+    "telepon": "085123450000"
+}
+
+
+3|VsJQAVLaMpNu4cKp2L1DSKOzIBisMcBqelXn5rgCb2270985
+4|IEt3Rr3tYTNrlNyO72PslISgQE2qno7LrFiS0fsg798cbe05
+5|eYYHxUodaKm915prvsu1fy8v0tLa8oh3nyXohHPd476a0349
+
+15|sm0ORWNUx0jtoR1rz04hPtSsy93jTs7EUjQJceg76905bc24
+17|E5NRwpxKRcGM694zgGoI63I6rz4ZppxJbeL87JsTd2813bd5
